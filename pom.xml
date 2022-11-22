@@ -50,11 +50,7 @@
                             <goal>test</goal>
                         </goals>
                          <repositories>
-    <repository>
-      <id>forplay-legacy</id>
-      <url>http://forplay.googlecode.com/svn/mavenrepo</url>
-    </repository>
-  </repositories>
+   
                         <configuration>
                             <skip>false</skip>
                             <includes>
